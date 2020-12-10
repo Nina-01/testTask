@@ -11,7 +11,7 @@
 
 Type git clone, and then paste the URL you copied earlier.
 ```shell
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/Nina-01/testTask.git
 ```
 ## Test Laravel Vue App
 CD project
